@@ -17,29 +17,6 @@ Primary purpose: generate sleep-screen artwork for an XTeink X4 e-ink display.
 - `truchet_480x800.js`: additional 480x800 sketch
 - `truchet_classic_p5.js`: additional classic p5 sketch
 
-## Run Locally
-
-### Requirements
-
-- A modern web browser
-- Python 3 (for a tiny local web server)
-- Internet access the first time (the runner loads p5.js from a CDN)
-
-### Quick start
-
-```bash
-cd truchet-tile-experiments
-python3 -m http.server 8000
-```
-
-Open:
-
-`http://localhost:8000/index.html`
-
-Then select a sketch from the dropdown and click **Load Sketch**.
-
-Note: The loader reads filenames from `sketches.json`. If you add a new sketch file, add it to that list so it appears in the dropdown.
-
 ## Running a single sketch in the p5 web editor
 
 1. Open `https://editor.p5js.org/`
