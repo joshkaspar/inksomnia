@@ -17,6 +17,24 @@ A collection of p5.js sketches for generating sleep-screen artwork for an XTeink
 - `other/p5-hex-random-second-attempt.js`: second constrained hex tiling attempt
 - `other/truchet_hex_rule_based_second_attempt.js`: rule-based hex placement attempt
 
+## Examples
+
+### Smith tiles
+
+![Smith tiles example](examples/smith_tiles_480x800.bmp)
+
+### 10 PRINT
+
+![10 PRINT example](examples/truchet_10print_480x800.bmp)
+
+### Arc tiles
+
+![Arc tiles example](examples/truchet_arcs_c2480x800.bmp)
+
+### Diagonal tiles
+
+![Diagonal tiles example](examples/truchet_b480x800.bmp)
+
 ## Running a single sketch in the p5 web editor
 
 1. Open `https://editor.p5js.org/`
