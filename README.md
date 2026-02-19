@@ -46,3 +46,4 @@ Most sketches support:
 
 - `R` to regenerate
 - `S` to save a PNG
+  - Use an image editor to convert to BMP
