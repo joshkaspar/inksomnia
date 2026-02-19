@@ -36,6 +36,8 @@ Open:
 
 Then select a sketch from the dropdown and click **Load Sketch**.
 
+Note: The loader reads filenames from `sketches.json`. If you add a new sketch file, add it to that list so it appears in the dropdown.
+
 ## Running a single sketch in the p5 web editor
 
 1. Open `https://editor.p5js.org/`
