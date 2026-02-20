@@ -72,7 +72,7 @@ function setup() {
 }
 
 function draw() {
-  background("#d9d9d9");
+  background(lightCol);
 
   const cols = floor(width / tileSize);
   const rows = floor(height / tileSize);
@@ -106,6 +106,6 @@ function drawDiagonalTile(s) {
   triangle(h, h, h, -h, -h, h);
 
   noFill();
-  stroke("#999");
+  stroke(lineCol);
   rect(0, 0, s, s);
 }
