@@ -4,9 +4,8 @@ A collection of p5.js sketches for generating sleep-screen artwork for an XTeink
 
 ## Usage
 - Go to https://joshkaspar.github.io/inksomnia
-- Load a script from the dropdown menu 
-  - `R` to regenerate
-  - `S` to save a BMP
+- Load a script from the dropdown menu
+- Use the **Redraw** and **Save BMP** buttons below the sketch
 
 ## Alternate
 - These scripts will also run at https://editor.p5js.org/
@@ -36,3 +35,11 @@ A collection of p5.js sketches for generating sleep-screen artwork for an XTeink
 ### Train Tracks
 
 <img src="examples/train_tracks.bmp" alt="Train tracks example" width="220" />
+
+### Ripple
+
+<img src="examples/ripple.bmp" alt="Ripple interference example" width="220" />
+
+### Ripple Square
+
+<img src="examples/ripple_square.bmp" alt="Square ripple interference example" width="220" />
