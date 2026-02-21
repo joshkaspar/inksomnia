@@ -35,7 +35,7 @@ function setup() {
 function draw() {
   background(255);
 
-  const s = 40; // tile size (480-40)/40 = 11 cols, (800-40)/40 = 19 rows
+  const s = 60; // tile size
   const u = s / 4; // track gauge
   const e = 3; // sleeper overhang
 
