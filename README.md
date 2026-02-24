@@ -43,3 +43,8 @@ A collection of p5.js sketches for generating sleep-screen artwork for an XTeink
 ### Ripple Square
 
 <img src="examples/ripple_square.bmp" alt="Square ripple interference example" width="220" />
+
+### Countour
+
+<img src="examples/contour.bmp" alt="countour example" width="220" />
+
